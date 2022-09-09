@@ -1,1 +1,1 @@
-[https://Nimboo1.github.io/rsschool-cv/cv](https://Nimboo1.github.io/rsschool-cv/cv)
+[https://Nimboo1.github.io/rsschool-cv/](https://Nimboo1.github.io/rsschool-cv/)
