@@ -29,3 +29,10 @@ function deepCount(a){
 
 ## Work experience
 I worked at Yandex Self-Driving Group as Remote Operator. Also I have experience in programming in c# because I studied it at university and wrote a diploma in this language.
+
+## Education
+Bachelor of Information Systems and Technologies, Nizhny Novgorod State University of Architecture and Civil Engineering
+Courses: 
+* HTML Academy
+* HiBrain JavaScript course
+
