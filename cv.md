@@ -36,3 +36,5 @@ Courses:
 * HTML Academy
 * HiBrain JavaScript course
 
+## Language
+**English A2.**
