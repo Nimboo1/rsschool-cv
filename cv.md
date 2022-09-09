@@ -18,11 +18,14 @@ Give me algorithmic tasks and I will solve them all days long.
 * VS Community, VS Code
 
 ## Code Example
-```
 This is my solution to the Array Deep Count task at CodeWars:
+```
 function deepCount(a){
   return a.reduce((prev, item) => {
     return (Array.isArray(item)) ? prev + 1 + deepCount(item) : ++prev;
   },0);
 }
 ```
+
+## Work experience
+I worked at Yandex Self-Driving Group as Remote Operator. Also I have experience in programming in c# because I studied it at university and wrote a diploma in this language.
